@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently working on CheckOnMe (checkonmeapp.com), a safety based application using Elixir & Phoenix.
+
+
 <!--
 **g33kidd/g33kidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
