@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Currently working on CheckOnMe (checkonmeapp.com), a safety based application using Elixir & Phoenix.
 
 
 <!--
