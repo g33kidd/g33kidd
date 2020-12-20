@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [my website](https://g33kidd.dev)
 
 - 🔭 I’m currently working on [Pros & Cons](https://play.google.com/store/apps/details?id=com.g33kidd.pros_cons)
 - 🌱 I’m currently learning **Svelte**
