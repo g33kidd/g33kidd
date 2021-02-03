@@ -7,4 +7,6 @@
 - 💬 Ask me about **Web Development, Flutter, Anything at all I'm here to help.**
 - 📫 How to reach me: [Twitter](https://twitter.com/g33kidd), [Discord Server](), [Discord DM](https://discordapp.com/users/117046039277469696)
 - 😄 Pronouns: They/them
-- ⚡ Fun fact: My first program was a TeamSpeak administration panel built with C#. Also my dog thinks she's a cat, so she sleeps ontop of the couch instead of like a normal animal.
+- ⚡ Fun fact: My first program was a TeamSpeak administration panel built with C# and my second was a simple C++ program that implemented the FSCUIPC API for FSX.
+
+[!Github Stats][https://github-readme-stats.vercel.app/api/?username=g33kidd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515]()
